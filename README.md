@@ -22,4 +22,5 @@ When you run the script, it shows a text-based menu in your terminal where you c
 
 ### 📂 Project Structure
 ├── Hotel Booking.py   # Main Python script containing all the beginner logic
+
 └── README.md          # Project documentation
